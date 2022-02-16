@@ -1,0 +1,37 @@
+COMANDOS BASICOS DE GIT Y DE LA TERMINAL!
+
+Hola Mi Nombre Es Steven
+
+--------------------------------------------------------------------------------------------------
+                                             TERMINAL
+--------------------------------------------------------------------------------------------------
+
+pwd (print working directory) - Muestra la ruta en la que estamos trabajando actualmente.
+
+cd (change directory) - para movernos entre directorios.    
+
+cd .. para moverse a el directorio padre (anterior).
+
+ls (list) - lista el contenido de un directorios.
+
+mkdir <nombre> (make directory) - para crea un nuevo directorio.
+
+clear - para borrar la terminal.
+
+----------------------------------------------------------------------------------------------------
+                                                GIT
+----------------------------------------------------------------------------------------------------
+
+git init - inicializando un nuevo repositorio.
+
+git status - nos muestra el estado actual de los distitos archivos en el repositorio.
+
+git add - para agregar los archivos a "staging"
+
+git commit -m - para someter los cambios.
+
+git push - para enviar los cambios a un repositorio remoto.
+
+git pull - para actualizar nuestro repositorio con los cambios del repositorio remoto. 
+
+git log - para ver el historial de commits
